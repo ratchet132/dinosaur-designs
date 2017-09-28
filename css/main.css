@@ -10,6 +10,7 @@ img {
 h1, h2, h3, h4, h5, h6 {
   color: #5d8432;
   text-transform: uppercase;
+  font-family: 'Patua One', cursive;
 }
 
 figcaption {
@@ -20,6 +21,7 @@ figcaption {
 
 ul {
   list-style: none;
+  font-family: 'Patua One', cursive;
 }
 
 ul li a {
