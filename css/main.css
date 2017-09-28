@@ -2,3 +2,18 @@ html, body {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
 }
+
+img {
+  width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #5d8432;
+  text-transform: uppercase;
+}
+
+figcaption {
+  font-size: 1.5em;
+  font-style: italic;
+  text-align: center;
+}
