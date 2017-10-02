@@ -1,6 +1,7 @@
 html, body {
   background-color: #f2f1ed;
   font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
 img {
@@ -14,20 +15,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 figcaption {
-  font-size: .9em;
-  line-height: 1.5em;
+  font-size: .8em;
   font-style: italic;
   text-align: center;
 }
 
 .big-caption {
   font-size: 1em;
-  line-height: 1.5em;
 }
 
 ol {
   list-style: none;
   font-family: "Patua One", cursive;
+  font-size: 1.1em;
+  font-weight: bold;
 }
 
 ol li a {
